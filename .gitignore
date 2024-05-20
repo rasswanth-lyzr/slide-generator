@@ -1,0 +1,10 @@
+.env
+resources
+uploads
+*.jpeg
+*.jpg
+*.json
+*.pdf
+output.txt
+temp.py
+.DS_Store

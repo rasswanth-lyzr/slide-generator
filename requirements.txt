@@ -1,0 +1,4 @@
+git+https://github.com/LyzrCore/lyzr-automata.git@10565fc0525d3d55206eb12f6198316f267b79df
+streamlit==1.34.0
+python-dotenv==1.0.1
+fastapi==0.111.0
